@@ -1,0 +1,162 @@
+//HTML//
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="resume3.css">
+    <div>
+    <h1>SHIVA SAI REDDY VANGALA</h1>
+    <p>mail id: <a href="mail to:m.shivasaivangala143@gmail.com">shivasaivangala143@gmail.com</a></p>
+     <p> Phone: <a href="tel: +91 6303775905"> +91 6303775905</a></p>
+     </div>
+     <h3>CAREER OBJECTIVE</h3>
+     <HR>
+     I aim to have the opportunity to advance my technical competence in the field of technology by pursuing higher education. By obtaining some fundamental knowledge and applying it to realistic scenarios, this action will assist me in achieving my goal. 
+     <h3>
+      SKILLS
+     </h3>
+     <HR>
+     <ul>
+        <li>C</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>HTML, CSS</li>
+        <li>MATLAB Software</li>
+        <li>MS OFFICE (EXCEL, WORD AND PPT)</li>
+        
+    </ul>
+    <h3>EDUCATION</h3>
+    <hr>
+    <TABLE>
+        <thead>
+            <tr>
+            <th>Degree/Course</th>
+            <th>Institute/College</th>
+            <th>University/Board</th>
+            <th>Percentage/CGPA</th>
+            <th>Year of Passing</th>
+            </tr>
+            <tr>
+                <td>Bachelor of Technology (Electronics and Communication Engineering)</td>
+                <td>JNTUH University College of Engineering Sultanpur</td>
+                <td>Jawaharlal Nehru Technological University Hyderabad</td>
+                <td>7.15 CGPA</td>
+                <td>2023</td>
+            </tr>
+            <tr>
+                <td>Senior Secondary High School (MPC)</td>
+                <td>Narayana Junior College</td>
+                <td>Telangana State Board of Intermediate Education</td>
+                <td>97.5%</td>
+                <td>2019</td>
+            </tr>
+            <tr>
+                <td>Secondary Education</td>
+                <td>SPR High School</td>
+                <td>Telangana Board of Secondary Education</td>
+                <td>9.3 CGPA</td>
+                <td>2017</td>
+            </tr>
+        </thead>
+    </TABLE>
+  
+    <h3>
+        PROJECTS
+    </h3>
+    <hr>
+    <H5>TECHNICAL PROJECTS</H5>
+    <UL>
+      <LI><B>Resume Creation using HTML and CSS</B></LI>
+      <p> <a href="https://github.com/shivasai-04/Resume-Creation-using-HTML-and-CSS/blob/main/ShivaSai">https://github.com/shivasai-04/Creating-Resume-using-HTML-and-CSS.git</a></p>
+
+</UL>
+    <H5>ACADEMIC PROJECTS</H5 >
+    <UL>
+        
+        
+        <li><b>Foot Step Power Generation System by using Piezoelectric Sensors for Charging using RFID</b></li>
+             The mechanical energy from the footsteps is converted into electrical energy by Piezoelectric effect. The generated electrical energy is used to charge a mobile phone using RFID technology.
+        <li><b>Multi-function Blind Stick using Arduino</b></li>
+        An ultrasonic-based intelligent walking stick for visually impaired people that detects obstacles and water.
+       
+    </UL>
+
+    <h3>CERTIFICATIONS</h3>
+    <hr>
+    <ul>      
+        <li>Certificate of Participation in National Level Workshop on Machine Learning Using Python (October 2021)</li>
+        <li>Java Programming Certified by Great Learning (October 2022) </li>
+        <li>Python Certified by Great Learning (October 2022)</li>
+        <LI>Web development Certified by Udemy (September 2023)</LI>
+    </ul>
+
+    <H3>TRAITS</H3>
+    <hr>
+    <UL>
+        <li>Leadership Skills</li>
+        <li>Time Management</li>
+        <li>Flexible and Adaptable</li> 
+        <li>Quick adjustment to new environment</li>                  
+    </UL>
+    
+    <h3>
+        ACCOMPLISHMENTS
+    </h3>
+    <HR>
+        <ul>
+            <li>
+            Planned, organized and executed events in SYNAPTICS 2k22.
+            </li>
+            <li>Participated as an NSS Volunteer.</li>
+        </ul>
+        <h3>HOBBIES</h3>
+        <hr>
+        <ul>
+            <li>Watching Sports</li>
+            <li>Listening to Music </li>
+            <li>Playing Cricket</li>
+        </ul>
+        <h3>PERSONAL DETAILS</h3>
+        <HR>
+            <ul>
+                <li>Address &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp: Nemmani, Narketpally, Nalgonda, Telangana, 508254 </li>
+                <li>Date of Birth  &nbsp &nbsp &nbsp &nbsp &nbsp: 17-02-2002</li>
+                <li>Gender      &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  : Male</li>
+                <li>Nationality   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp : INDIAN</li>
+                <li>Languages Known : English, Hindi and Telugu</li>
+            </ul>
+            <H3>DECLARATION</H3>
+            <hr>
+            <p>
+                I hereby declare that all the above information is true to the best of my knowledge.
+            </p>
+            <h4> SHIVA SAI REDDY VANGALA</h4>
+
+     
+</head>
+<body>
+    
+</body>
+</html>
+//CSS//
+h1{
+    font-size:25px;
+}
+table,th,td{
+    border:1px solid black;
+}
+h4{
+    text-align: right;
+}
+.certifications{
+    line-height: 1.5;
+}
+a:link{
+    color: blue
+}
+a:visited{
+    color: blue
+}
